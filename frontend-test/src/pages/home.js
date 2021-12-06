@@ -8,7 +8,7 @@ const HomePage = () => {
         <Navbar />
       </div>
       
-      <div className="flex mt-10 justify-between">
+      <div className="flex flex-wrap mt-10 justify-between">
           <Card />
           <Card />
           <Card />

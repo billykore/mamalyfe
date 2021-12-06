@@ -1,6 +1,6 @@
 const Card = () => {
   return (
-    <div>
+    <div className="mb-10">
       <div className="h-[320px] w-[260px] bg-gray-300">
         Image
       </div>
